@@ -1,4 +1,3 @@
-DinoSpwan
-=========
+Spawn Dinosaurs.
 
-Spwan all the Dinosaurs
+Visit www.dinospawn.com for the funs.
